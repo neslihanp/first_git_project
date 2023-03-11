@@ -28,4 +28,16 @@ ONLY ONCE  *git push -u origin main
              git commit -m "adding fourth clas"
              *git push
 
+  6. GIT PULL
+        *git pull is used to get the code from GitHub
+        *git pull = git fetch + git merge
+
+          NOTE: if got pull trows errors then use:
+          git fetch
+          git merge
+        *NOW THAT WE HAVE OUR LOCAL UPDATED< THEN COMMIT THE CODES AND PUSH ALL TOGETHER
+            *git add .
+            *git commit -m "commiting my codes"
+            *git push
+
 
