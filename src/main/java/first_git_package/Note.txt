@@ -21,6 +21,11 @@ ONLY ONCE  *git push -u origin main
             *git commit -m "added my second java class"
             *git push
 
-
+  5. ADDING SPECIFIC FILES
+        *Create 2 JAVA classes : MyThirdClass, MyFourthClass
+        *Create a commit with ONLY MyFourthClass
+             gir add  "src/main/java/first_git_package/MtFourthClass.java"
+             git commit -m "adding fourth clas"
+             *git push
 
 
