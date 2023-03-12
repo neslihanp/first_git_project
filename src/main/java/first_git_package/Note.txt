@@ -42,3 +42,14 @@ ONLY ONCE  *git push -u origin main
 
   NOTE: PULL BEFORE PUSH
         *git pull -> git add . -> git commit -m "message" -> git push
+
+  ************* DAY 1 SUMMARY *******************************************
+
+
+
+
+
+
+
+  ************************ DAY 2 ****************************
+
