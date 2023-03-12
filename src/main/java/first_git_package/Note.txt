@@ -52,4 +52,6 @@ ONLY ONCE  *git push -u origin main
 
 
   ************************ DAY 2 ****************************
+BRANCHING
+git branch -a -> show me all branch
 
